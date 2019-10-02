@@ -51,10 +51,3 @@ if __name__ == 'main': #banyaknya gen (bebas) nGen = 10 myNode = [0, 1, 2, 3, 4,
 
 
         #coba hitung masing masing di jadikan 20%
-
-
-# In[ ]:
-
-
-
-
